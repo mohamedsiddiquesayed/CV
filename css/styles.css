@@ -1,0 +1,154 @@
+body {
+  background-color: #F1DEC8;
+  text-align: center;
+  color: #40514e;
+  font-family: fantasy;
+  font-style: normal;
+  font-size: 20px;
+
+}
+
+.name {
+  font-size: 5.625rem;
+}
+
+hr {
+  text-align: center;
+  border-style: none;
+  border-top-style: solid;
+  border-color: #F444440;
+  border-width: 25px;
+  width: 100%;
+}
+
+
+h1 {
+  color: #FF7878;
+  font-size: 50px;
+  margin: 50px auto 0 auto;
+  font-family:monospace;
+}
+
+h2 {
+  color: #FF7878;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+font-family: sans-serif;
+
+}
+
+.intro {
+  width: 100%;
+  position: relative;
+  padding-top: 200px;
+  background-color: #B9C9C7;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.about-me {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+
+}
+
+.education {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.strengths {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skills {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.career {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.my-message {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.footer {
+  margin: 50px auto 50px auto;
+  border-radius: 10px;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: #B9C9C7;
+  padding: 50px 0 16px;
+}
+
+.about-me-pic{
+  width: 20%;
+
+  margin-right: 30px;
+}
+.education-pic{
+  width: 25%;
+
+}
+.strength-pic{
+  width: 25%;
+
+}
+.skills-pic{
+  width: 25%;
+
+
+}
+.career-pic{
+  width: 25%;
+
+}
+.message-pic{
+  width: 25%;
+
+}
+.contact-pic{
+  width: 25%;
+
+}
+.color{
+  color: #96C7C1;
+}
+
+a{
+  color: #99A799;
+  font-family: sans-serif;
+  margin: 5px 10px;
+  text-decoration: none;
+}
+a:hover{
+  color: #DE8971;
+}
